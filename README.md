@@ -4,8 +4,10 @@ https://github.com/amandeepmittal/ionic-use-font-awesome <br />
 $ npm install font-awesome --save <br />
 
 include
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+```
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">```
 to index.html
+
 
 <br />
 ////////////////////////////////////////////////// <br />
